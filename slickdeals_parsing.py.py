@@ -1,4 +1,4 @@
-import requests
+import requests Anton
 from bs4 import BeautifulSoup as bs
 
 page = requests.get('https://slickdeals.net/')
